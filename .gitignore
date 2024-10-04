@@ -1,0 +1,11 @@
+# pixi environments
+.pixi
+*.egg-info
+
+01_simple/build
+02_eigen_cv/build
+
+03_ros/build
+03_ros/devel
+03_ros/install
+03_ros/log
